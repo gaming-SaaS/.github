@@ -4,8 +4,6 @@
 
 I analyzed the system and put some time to understand how the requested ecosystem must be. The communication, safety, speed, and scalability.
 
-After I decided to define services and choose tools.
-
 ### Tools:
 - NestJs - Node + TypeScript + Fastify
 - REST API - Communicate from outside of ecosystem
@@ -26,6 +24,12 @@ After I decided to define services and choose tools.
 4. [Grouping(club) - Carbon](https://github.com/gaming-SaaS/carbon) (Because it creates very strong groups like diamonds)
 5. [Readable data provider - Francium](https://github.com/gaming-SaaS/francium) (Because it likes to give the electrons)
 6. [Writable data provider - Fluorine](https://github.com/gaming-SaaS/fluorine) (Because it like to receive electrons)
+
+### nest-plus
+
+This is a wrapper on the Nestjs server, it provides all common filters, middlewares, interceptors, guards, and... It is published on NPM, so for services, you can use it without being worried about common feature implementations.
+
+You can find it here, *[nest-plus](https://github.com/gaming-SaaS/nest-plus)*.
 
 ### Middlewares:
 
