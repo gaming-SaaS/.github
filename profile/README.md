@@ -53,7 +53,7 @@ Services and parts of systems need name. so I decided to choose chemical element
 
 ## Services
 
-I divided the whole system into 7 services which every one of them has only one porpose and responsibility.
+I divided the whole system into 6 services which every one of them has only one porpose and responsibility.
 
 These services are:
 
@@ -69,7 +69,8 @@ These services are:
    - This service responsible for fetching data as fast as possible.
 6. Writable data provider - Fluorine
    - This service responsible for registering data fast and sync with readable data provider.
-
+   
+![communications](https://user-images.githubusercontent.com/3008331/180456717-e12a765c-fb53-4c7a-b3bc-1021955f9d7c.png)
 
 # JWT
 
