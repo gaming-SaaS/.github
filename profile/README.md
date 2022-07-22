@@ -1,8 +1,8 @@
-Description of doing the process
+# Description
 
-##Introduction
+## Introduction
 
-After receiving the task description, I analyzed the task and put some time to understand how the requested ecosystem must be. The communication, safety, speed, and scalability.
+I analyzed the system and put some time to understand how the requested ecosystem must be. The communication, safety, speed, and scalability.
 
 After I decided to define services and choose tools.
 
@@ -20,12 +20,12 @@ Tools:
   - standard git-flow for branching
 
 Services:
-1. Managing users - Oxygen (Because users are the important part of a LIVE system)
-2. Messaging - Rhenium (Because this chemical element used in electrical contact materials)
-3. Wallet - Nickel (Because it is a money unit)
-4. Grouping(club) - Carbon (Because it creates very strong groups like diamonds)
-5. Readable data provider - Francium (Because it likes to give the electrons)
-6. Writable data provider - Fluorine (Because it like to receive electrons)
+1. [Managing users - Oxygen](https://github.com/gaming-SaaS/oxygen) (Because users are the important part of a LIVE system)
+2. [Messaging - Rhenium](https://github.com/gaming-SaaS/rhenium) (Because this chemical element used in electrical contact materials)
+3. [Wallet - Nickel](https://github.com/gaming-SaaS/nickel) (Because it is a money unit)
+4. [Grouping(club) - Carbon](https://github.com/gaming-SaaS/carbon) (Because it creates very strong groups like diamonds)
+5. [Readable data provider - Francium](https://github.com/gaming-SaaS/francium) (Because it likes to give the electrons)
+6. [Writable data provider - Fluorine](https://github.com/gaming-SaaS/fluorine) (Because it like to receive electrons)
 
 Middlewares:
 
